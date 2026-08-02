@@ -1,0 +1,21 @@
+# TRIDITIVE
+
+> TRIDITIVE is an automated additive manufacturing (industrial 3D printing) company founded in 2016 and headquartered in Meres, Asturias, Spain, with offices in Hartford, Connecticut and London. It builds the AMCELL family of automated 3D printing machinery (Amcell 1300, 4300, 8300, Bulkam), the Traced traceability system, and the EVAM Software platform for additive manufacturing workflow management, digital warehousing, and on-demand parts production in polymers and metals. TRIDITIVE is a Techstars portfolio company. It publishes no public API, developer portal, or client SDKs as of 2026-07-21.
+
+## Company
+
+- [Website](https://triditive.com/): Company homepage
+- [About](https://triditive.com/about/): Company information
+- [Machinery](https://triditive.com/machinery/): AMCELL automated additive manufacturing machines
+- [EVAM Software](https://triditive.com/software/): AM workflow platform (Digital Warehouse, Production Planning and Scheduling, Enterprise tiers)
+- [News](https://triditive.com/news/): Company news
+- [Contact](https://triditive.com/contact/): Contact and quote requests
+
+## Legal
+
+- [Terms of Use](https://triditive.com/terminos/): Terms and conditions (Spanish)
+- [Privacy Policy](https://triditive.com/privacidad/): Privacy and data protection (Spanish)
+
+## API Evangelist profile
+
+- [apis.yml](https://raw.githubusercontent.com/api-evangelist/triditive/refs/heads/main/apis.yml): APIs.json machine-readable profile (no public APIs catalogued)
