@@ -6,6 +6,17 @@ description: TRIDITIVE is an automated additive manufacturing company founded in
   traceability system, and the EVAM Software platform for additive manufacturing workflow management,
   digital warehousing, and on-demand production of polymer and metal parts. A Techstars portfolio
   company, TRIDITIVE publishes no public API, developer portal, or client SDKs as of July 2026.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
